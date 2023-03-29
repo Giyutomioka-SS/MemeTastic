@@ -77,7 +77,6 @@ class MainActivity : AppCompatActivity() {
         val chooser = Intent.createChooser(intent, "Share this meme using..")
         startActivity(chooser)
 
-//jnvsejhfe
     }
     fun nextMeme(view: View) {
         loadMeme()
