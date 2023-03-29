@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MemeTastic</string>
+    <string name="nextButton">Next</string>
+    <string name="shareButton">Share</string>
+</resources>
