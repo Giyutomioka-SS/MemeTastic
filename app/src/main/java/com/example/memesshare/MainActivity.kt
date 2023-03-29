@@ -76,7 +76,7 @@ class MainActivity : AppCompatActivity() {
         intent.putExtra(Intent.EXTRA_TEXT, "Hey, Checkout this meme I got from Reddit $currentImageUrl")
         val chooser = Intent.createChooser(intent, "Share this meme using..")
         startActivity(chooser)
-//rfbsjhb
+
     }
     fun nextMeme(view: View) {
         loadMeme()
