@@ -1,2 +1,2 @@
 # MemeTastic
-MemeTastic is a straightforward and easy-to-use mobile application designed for sharing popular memes with friends and followers. With MemeTastic, users can browse a collection of the latest and most popular memes, and share them across multiple social media platforms with just a few taps.
+MemeTastic is a straightforward and easy-to-use mobile application designed for sharing popular memes with friends and followers. With MemeTastic, users can browse a collection of the latest and most popular memes, and share them across multiple social media platforms with just a few taps. Overall, MemeTastic is a great app for anyone who loves to stay up-to-date with the latest meme trends and share them with their social networks without any fuss.
